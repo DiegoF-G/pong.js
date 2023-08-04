@@ -1,5 +1,5 @@
 # pong.js
->Repository status: Finish
+>Repository status: Finish, but can be update
 
 My first project that I made for learn programing logic and Javascript in Alura course of programming beginner. Made in p5.js and its about a simple game: Pong. It have some bugs that I will fix still. [Here](https://editor.p5js.org/DiegoF-G/sketches/_5gLdCCuU) for access p5.js in my pong game.
 
