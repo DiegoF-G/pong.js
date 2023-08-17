@@ -1,4 +1,4 @@
-# pong-js
+# pong.js
 >Repository status: Finish, but can be update
 
 My first project that I made for learn programing logic and Javascript in Alura course of programming beginner. 
